@@ -9,4 +9,4 @@ MIT
 ## Installation Steps
 
 - bench get-app [repo link]
-- bench --site sitename install-app appname
+- bench --site [sitename] install-app [appname]
